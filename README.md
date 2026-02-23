@@ -32,7 +32,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
-
+```
 Navigate into the directory:
 
 ```bash
