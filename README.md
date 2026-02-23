@@ -1,20 +1,34 @@
-# Kali Linux Gnome-Login-screen-wallpaper-changer
-i discover a method that allows to change gnome login screen it is hard to change but i made a automation script
+# 🔐 Kali GNOME Login Screen Wallpaper Automation
 
-how to Use?
+Easily change the **GNOME login screen wallpaper** on Kali Linux using a simple automation script.
 
-clone this repo
+Modifying the login screen background is usually not straightforward.  
+This tool simplifies the process with an interactive menu and automated configuration.
 
-go to directory
+---
 
-use chmod +x wallpaper.sh
+## ✨ Features
 
-use ./wallpaper.sh
+- 🎨 Change GNOME login screen wallpaper
+- 🖥 Interactive menu-based selection
+- 🔄 Reset to default wallpaper option
+- ⚡ Lightweight and easy to use
+- 🔐 Secure password prompt for system changes
 
-select the option
+---
 
-select image you want 
+## 🖥 Requirements
 
-enter the password and reboot
+- Kali Linux
+- GNOME Desktop Environment
+- Sudo/root privileges
+- Reboot required after changes
 
-if you want change old just use reset to default
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
