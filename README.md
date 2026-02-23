@@ -59,3 +59,9 @@ Run the script without sudo permission
 - Run the script again
 - Select Reset to Default
 - logout your system
+
+## ⚠ Important Notes
+
+- Run without Sudo Permission
+- adjust blur count you want
+- it will ask you for password so put it
