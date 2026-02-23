@@ -44,7 +44,6 @@ Make the script executable:
 chmod +x wallpaper.sh
 ```
 Run the script without sudo permission
-```
 ```bash
 ./wallpaper.sh
 ```
