@@ -47,3 +47,15 @@ Run the script without sudo permission
 ```bash
 ./wallpaper.sh
 ```
+## 📋 How It Works
+
+- Select an option from the menu
+- Choose the image you want to apply
+- Enter your password when prompted
+- Reboot your system
+
+## 🔄 Reset to Default
+
+- Run the script again
+- Select Reset to Default
+- logout your system
