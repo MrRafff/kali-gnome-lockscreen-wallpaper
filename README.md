@@ -32,3 +32,18 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
+
+Navigate into the directory:
+
+```bash
+cd your-repo-name
+
+Make the script executable:
+
+```bash
+chmod +x wallpaper.sh
+
+Run the script without sudo permission
+
+```bash
+./wallpaper.sh
