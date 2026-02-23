@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 Navigate into the directory:
 
 ```bash
-cd your-repo-name
+cd kali-gnome-lockscreen-wallpaper
 ```
 Make the script executable:
 
