@@ -31,7 +31,7 @@ This tool simplifies the process with an interactive menu and automated configur
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/MrRafff/kali-gnome-lockscreen-wallpaper.git
 ```
 Navigate into the directory:
 
