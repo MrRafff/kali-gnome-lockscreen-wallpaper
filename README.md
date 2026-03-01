@@ -21,7 +21,7 @@ This tool simplifies the process with an interactive menu and automated configur
 
 - Kali Linux
 - GNOME Desktop Environment
-- Sudo/root privileges
+- root password
 - Reboot required after changes
 
 ---
